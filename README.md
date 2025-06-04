@@ -1,7 +1,6 @@
 # 💰 Personal Finance Tracker
 
-A comprehensive web application built with Laravel to help you manage your ![fin10](https://github.com/user-attachments/assets/1cad87f3-2fd4-4be8-bf3b-b1182044ffde)
-finances, track expenses, monitor income, and achieve your savings goals.
+A comprehensive web application built with Laravel to help you manage your finances, track expenses, monitor income, and achieve your savings goals.
 
 ## ✨ Features
 
