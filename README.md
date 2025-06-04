@@ -1,8 +1,7 @@
 # 💰 Personal Finance Tracker
 
-A comprehensive web application built with Laravel to help you manage your personal finances, track expenses, monitor income, and achieve your savings goals.
-
-![Dashboard Preview](./docs/images/dashboard-preview.png)
+A comprehensive web application built with Laravel to help you manage your ![fin10](https://github.com/user-attachments/assets/1cad87f3-2fd4-4be8-bf3b-b1182044ffde)
+finances, track expenses, monitor income, and achieve your savings goals.
 
 ## ✨ Features
 
@@ -79,13 +78,17 @@ Access detailed financial reports through the Reports section:
 ## 📊 Screenshots
 
 ### Dashboard
-![Dashboard](./docs/images/dashboard.png)
+![fin1](https://github.com/user-attachments/assets/583b5d53-2f58-4d48-877f-f805502dcd07)
 
 ### Transaction Management
-![Transactions](./docs/images/transactions.png)
+![fin 2](https://github.com/user-attachments/assets/5934229c-988f-49e6-a906-d0fb07cee6e9)
 
 ### Savings Goals
-![Goals](./docs/images/goals.png)
+![fin3](https://github.com/user-attachments/assets/cfde9719-8177-4eb5-86c3-138fc5b2bd61)
+![fin9](https://github.com/user-attachments/assets/bd58adab-5310-4f9f-bce9-5cb6830c011b)
+![fin7](https://github.com/user-attachments/assets/ef32c0f1-4dcd-4452-ba21-8005c5eb4a5b)
+![fin6](https://github.com/user-attachments/assets/eda91a80-2ff8-4a8e-89f8-3ce401bab1ae)
+![fin5](https://github.com/user-attachments/assets/d79023d9-496e-4c4a-9a06-c64ab079e198)
 
 ### Reports
-![Reports](./docs/images/reports.png)
+![fin8](https://github.com/user-attachments/assets/5453f8a5-c872-4aac-b85f-9e2028b27a43)
